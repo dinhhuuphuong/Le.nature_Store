@@ -19,8 +19,16 @@
 
 
 
-### Prerequisites
-- **Node.js** 
+### Built With
+
+This section list major frameworks/libraries used to bootstrap my project.
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) <br/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge) <br/>
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black&style=for-the-badge) <br/>
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge) <br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) <br/>
+![tailwind](https://img.shields.io/badge/tailwind-1C1E24?logo=tailwind&logoColor=#D04A37&style=for-the-badge) <br/>
 
 
 ### Start project
