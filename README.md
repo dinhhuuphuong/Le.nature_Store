@@ -3,7 +3,7 @@
   <br>
   <img src="https://github.com/user-attachments/assets/9c0c16c1-935d-4e6c-9cb1-d113389ab714" alt="" width="250">
   <br>
-  Le.Nature_Store
+  Le.Nature Store
   <br>
 </h1>
  <p align="center">
